@@ -1,5 +1,7 @@
 # HTML Summer Camp
 
+Final Site: https://jonalake.github.io/exercise-html-summer-camp/
+
 Write HTML in the `index.html` file that does the following:
 
 * Has a heading that says "Welcome to Camp!"
