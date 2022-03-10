@@ -1,16 +1,20 @@
 @import url("https://fonts.googleapis.com/css2?family=Staatliches&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
 
 body {
-  font-family: Arial, sans-serif;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 20px;
+  font-weight: 900;
   margin: 0;
-  color: hsl(0, 0%, 20%);
-  border: 8px solid hsl(120, 60%, 40%);
+  color: hsl(0, 0%, 0%);
   height: 100vh;
   box-sizing: border-box;
+  background-image: url('https://thumbs.dreamstime.com/b/classic-desert-camouflage-repeat-pattern-made-seamless-colours-brown-khaki-green-tones-i-looks-just-as-nice-blue-124853251.jpg');
 }
 
 h1 {
   font-family: Staatliches, sans-serif;
+  font-weight: 900;
   font-size: 64px;
   margin-top: 48px;
   margin-bottom: 48px;
@@ -45,12 +49,12 @@ input {
 
 button {
   border: none;
-  background-color: hsl(120, 60%, 40%);
+  background-color: hsl(120, 60%, 25%);
   color: #fff;
   padding: 16px 32px;
   font-weight: 700;
   font-size: 20px;
-  box-shadow: 1px 1px 3px hsl(0, 0%, 50%);
+  box-shadow: 1px 1px 6px hsl(0, 0%, 30%);
   margin: 0 auto;
   display: block;
 }
